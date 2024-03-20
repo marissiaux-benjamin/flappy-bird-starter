@@ -1,9 +1,9 @@
 export const settings = {
     birdie: {
         frames: [
-            {sx: 6, sy: 982},
-            {sx: 62, sy: 982},
-            {sx: 118, sy: 982}
+            {sx: 6, sy: 982, sw:34, sh:24},
+            {sx: 62, sy: 982, sw:34, sh:24},
+            {sx: 118, sy: 982, sw:34, sh:24}
         ]
     },
     background: {
